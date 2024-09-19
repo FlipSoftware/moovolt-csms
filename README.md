@@ -10,7 +10,7 @@
 <br>
 <br>
 
-![App-workflow](https://github.com/amindWalker/moov.olt-mvp/assets/66398400/26cfcad7-c13c-4790-ba02-c5b2d14042b3)
+![App-workflow](https://github.com/user-attachments/assets/ba5f08f5-4fe9-42f1-981b-d89a39f652f4)
 
 > [!IMPORTANT]
 > ## Arquitetura do Servidor
